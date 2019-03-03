@@ -1,8 +1,8 @@
 # c_programs
 assignments basics of c in programs
 ## NUMBERS
-1)Prime
-2)even odd
+1)Prime 
+2)even odd 
 3)leep year
 4)Swapping of 2 no without and with temp variables
 5)Chek if 2 no are twin prime
